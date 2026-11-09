@@ -1,4 +1,4 @@
-# Sable — versão de teste
+# Sable — versão de teste - Feito por Jhonatan Abreu
 
 Sable é um programa de orçamentos de obras (SICRO e SINAPI, regime noturno, BDI por item, curva ABC e relatórios em PDF e Excel).  **for Windows**.
 
